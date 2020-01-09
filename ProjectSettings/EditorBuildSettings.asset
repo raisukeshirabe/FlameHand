@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/MyScenes/meramera.unity
+    guid: b600873b08f504009aea2293c32479d3
+  - enabled: 1
+    path: Assets/MyScenes/FlameHand.unity
+    guid: 6386f618885c54e09b487f68af233038
+  m_configObjects: {}
